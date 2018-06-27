@@ -20,7 +20,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -30,11 +29,9 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 ## License
 
-    MIT License
+MIT License
 
 Copyright (c) [2018] [Omari Matthews]
 
